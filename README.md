@@ -1,6 +1,5 @@
 # Steps
-- Create a utils folder and add createPassword.js & savePassword.js.
-- Have a node_modules folder
+- Node_modules folder
 - Run the `index.js` file with `node index.js`
 
 # Available options
