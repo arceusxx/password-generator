@@ -6,9 +6,9 @@
 # Available options
 ```
 '- l, --length <number>', 'password length', '8 (default)'
-'-s, --save', 'save password in passwords.txt' file
-'-nn, --no-numbers', 'delete digits', '-nnn, --no-numbers', 'delete digits
-'-ns, --no-symbols', 'delete symbols'.
+'-s, --save', 'save password to passwords.txt'
+'-nn, --no-numbers', 'remove numbers'
+'-ns, --no-symbols', 'remove symbols'
 ```
 
 # Examples
