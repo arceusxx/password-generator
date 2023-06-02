@@ -1,5 +1,5 @@
 # Steps
-- Node_modules folder
+- node_modules folder
 - Run the `index.js` file with `node index.js`
 
 # Available options
