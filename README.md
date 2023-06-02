@@ -12,7 +12,8 @@
 ```
 
 # Examples
-`node index.js` => Generated password: 0cKR9TH1
-`node index.js -l 6 -s -nn -ns` => Generated password: qQcwkp
+- `node index.js` => Generated password: 0cKR9TH1
+- 
+-`node index.js -l 6 -s -nn -ns` => Generated password: qQcwkp
 The password has been copied to the clipboard.
 Password saved in passwords.txt
