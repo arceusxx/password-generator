@@ -8,7 +8,7 @@ const createPassword = require('./utils/createPassword')
 const savePassword = require('./utils/savePassword')
 
 
-program.version('1.0.0').description('PASSWORD GENERATOR BY VUITSU')
+program.version('1.0.0').description('PASSWORD GENERATOR BY VUITSU (aka arceus)')
 
 program
   .option('-l, --length <number>', 'length of password', '8')
